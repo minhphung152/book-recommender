@@ -1,0 +1,40 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+
+# Virtual environment
+.venv/
+
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+*.code-workspace
+.DS_Store
+
+# PyCharm settings
+.idea/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Data files
+*.db
+*.sqlite3
+
+# Model files
+*.h5
+*.ckpt
+*.pt
+*.pth
+
+# Gradio cache
+gradio_cache/
